@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## My goal is to solve 400 problems in 30 days from HackerRank and CODEFORCES
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: March 06, 2021
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Planning and preparation for 400 problems.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: March 07, 2021
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Target = 16, Done = 5 (Hackerrank), remain = 395.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Not satisfied.
+
+**Link(s) to work**: [Link will be updated](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
