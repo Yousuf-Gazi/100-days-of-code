@@ -21,10 +21,17 @@
 
 ### Day 2: March 08, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: problem solving
+done = 3 (Hackerrank),
+remain = 392
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Java start:
+1. Environment set up
+2. Hello World
+3. Basic Mathematical Operation
+
+
+**Thoughts**: Wanted to do more problem solving but couldn't do it because 2 problems of hackerrank took too much time to solve
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Link will be updated](http://www.example.com)
