@@ -19,7 +19,7 @@
 **Link(s) to work**: [Link will be updated](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: March 08, 2021
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
