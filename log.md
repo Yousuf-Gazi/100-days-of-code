@@ -35,3 +35,22 @@ Java start:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 3: March 09, 2021
+
+**Today's Progress**: problem solving
+done = 1 (Hackerrank),
+remain = 391
+
+Java start:
+1. Variable
+2. data types
+3. input types
+4. max value, min value of data types
+5. making calculator
+
+
+**Thoughts**: Couldn't do more problem solving but focused on Java today.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
