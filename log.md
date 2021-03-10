@@ -54,3 +54,25 @@ Java start:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 4: March 10, 2021
+
+**Today's Progress**: problem solving
+done = 1 (Hackerrank),
+remain = 390
+
+Java - 
+(resource = programiz.com and youtube videoes = stack learner, caleb curry)
+1. JVM, JRE and JDK
+2. Variables and Literals
+3. Data Types
+4. Operators
+5. Input and Output
+6. Expressions & Blocks
+7. Comment
+
+
+**Thoughts**: Couldn't do more problem solving but focused on Java today.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
