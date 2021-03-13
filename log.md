@@ -93,3 +93,21 @@ Java - (resource = programiz.com and youtube videoes = stack learner, caleb curr
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 6: March 13, 2021
+
+Java - (resource = programiz.com)
+1.  Java Arrays
+2.  Multidimensional Array
+    1. 2d array
+    2. 3d array
+3.  Java Copy Array
+    1. Converting Array to string
+    2. arraycopy()
+    3. copyOfRange()
+
+
+**Thoughts**: Couldn't do problem solving last 2 days. I really need to get back on it. The syntax of array in java is a little bit different from C but amazing. 
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
