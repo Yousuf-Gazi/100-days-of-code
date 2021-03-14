@@ -111,3 +111,15 @@ Java - (resource = programiz.com)
 
 **Link(s) to work**
 1. [Click Here](https://github.com/Yousuf-Gazi/100-days-of-code/tree/master/Java/day_006)
+
+### Day 7: March 14, 2021
+
+Java - (resource = programiz.com)
+1. Recapped previous topics
+2. bufferreader
+3. Java class
+
+**Thoughts**: buffereader is another way of taking input a little bit confusing. Java class now this is interesting. It will take time to get the hang of it.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
