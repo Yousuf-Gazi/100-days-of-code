@@ -34,7 +34,7 @@ Java start:
 **Thoughts**: Wanted to do more problem solving but couldn't do it because 2 problems of hackerrank took too much time to solve
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Link will be updated](http://github.com/Yousuf-Gazi/100-days-of-code/tree/master/Java/day_002)
 
 ### Day 3: March 10, 2021
 
