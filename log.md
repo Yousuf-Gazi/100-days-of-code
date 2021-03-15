@@ -123,3 +123,17 @@ Java - (resource = programiz.com)
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 8: March 15, 2021
+
+Java - (resource = programiz.com)
+1. Taking input using BufferedReader (how it works during taking input)
+2. What is buffer?
+3. What is stream?
+4. java Class and Object
+5. Java Methods
+
+**Thoughts**: Did some research on BufferReader and understood how it works also did some practice to understand it better. Ended up facing a problem which i couldn't solve today. I got some basic understanding on other topics. I really need to get back on problem solving
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
