@@ -137,3 +137,18 @@ Java - (resource = programiz.com)
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 9: March 16, 2021
+
+Java - (thenewboston's java tutorial series - video (1 - 30))
+
+1. Using multiple classes
+2. Methods with parameters
+3. Methods and instances
+4. Many methods and instances
+5. Constructors
+
+**Thoughts**: I am loving java more and more. Did some exercises on java.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
