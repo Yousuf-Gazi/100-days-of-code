@@ -152,3 +152,18 @@ Java - (thenewboston's java tutorial series - video (1 - 30))
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 10: March 17, 2021
+
+Java -
+
+1. string[] args
+2. try{}catch(){}
+3. custom package
+4. toString()
+5. Constructors
+
+**Thoughts**: Some topics are still uncleared to me, need to research on those
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
