@@ -167,3 +167,17 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 11: March 18, 2021
+
+Java -
+
+1. "this" 
+2. getter, setter
+3. compound interest program
+4. simple averaging program
+
+**Thoughts**: I was so tired today but because of the commitment. at least did 2 very small project.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
