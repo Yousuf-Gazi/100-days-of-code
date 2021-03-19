@@ -181,3 +181,20 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 12: March 19, 2021
+
+Java -
+
+1. custom package
+2. instance variable
+3. usage of constructor
+4. exercises of
+    1. constructor
+    2. toString (override)
+    3. getter setter
+
+**Thoughts**: i have some confusion in some topics and cleared it today.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
