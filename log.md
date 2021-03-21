@@ -215,3 +215,14 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 14: March 21, 2021
+
+**Today's Progress**: Reading a book
+Name: Fullstack Development - Connecting The Dots
+
+1. Chapter 1
+2. Chapter 2
+
+
+**Thoughts**: Didn't do any code today. Just reading an amazing book on programming
