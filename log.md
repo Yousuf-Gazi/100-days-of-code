@@ -224,5 +224,10 @@ Name: Fullstack Development - Connecting The Dots
 1. Chapter 1
 2. Chapter 2
 
-
 **Thoughts**: Didn't do any code today. Just reading an amazing book on programming
+
+### Day 15: March 22, 2021
+
+**Today's Progress**: Working on a small a very small project in java (actually homework)
+
+**Thoughts**: i am enjoying my very first project in java
