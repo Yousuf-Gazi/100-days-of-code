@@ -231,3 +231,15 @@ Name: Fullstack Development - Connecting The Dots
 **Today's Progress**: Working on a small a very small project in java (actually homework)
 
 **Thoughts**: i am enjoying my very first project in java
+
+### Day 16: March 23, 2021
+
+**Today's Progress**: thenewboston java tutorial series (video 21 - 23)
+
+Java -
+1. A simple program - Compound Interest Program
+
+**Thoughts**: I was so busy today. So just did a simple program.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
