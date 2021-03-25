@@ -255,3 +255,17 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 18: March 25, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. random number generator
+2. creating an array table
+3. array elements as counter
+
+**Thoughts**: array a very interesting topic. loved it
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
