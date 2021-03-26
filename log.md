@@ -269,3 +269,15 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 19: March 26, 2021
+
+**Today's Progress**: Project
+
+Java -
+1. pendrive class project
+
+**Thoughts**: 70% complete.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
