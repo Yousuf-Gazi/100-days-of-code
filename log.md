@@ -281,3 +281,16 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 20: March 27, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. do while loop
+2. enhanced for loop
+
+**Thoughts**: array a very interesting topic. loved it
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
