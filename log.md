@@ -294,3 +294,16 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 21: March 28, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. arrays in method
+2. multidimensional array
+
+**Thoughts**: a little bit confusing on some matter. need to research on it.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
