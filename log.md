@@ -307,3 +307,16 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 22: March 30, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. math class
+2. random number generator
+
+**Thoughts**: felt good. yesterday was rest.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
