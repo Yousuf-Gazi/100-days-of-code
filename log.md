@@ -320,3 +320,16 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 23: March 31, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. variable length argument
+2. time class
+
+**Thoughts**: time class is interesting.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
