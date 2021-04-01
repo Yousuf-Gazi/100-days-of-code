@@ -333,3 +333,16 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 24: April 01, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. project = random number generator
+2. java.util.Random
+
+**Thoughts**: This java.util.Random is thread-safe but cryptographically insecure. Besides, many applications will find the method Math.random() simpler to use.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
