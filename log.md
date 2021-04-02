@@ -346,3 +346,17 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 25: April 02, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. Building object for constructors
+2. toString
+3. Multiple constructors
+
+**Thoughts**: Constructor a very interesting and a brand new topic for me.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
