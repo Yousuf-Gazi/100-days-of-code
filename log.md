@@ -360,3 +360,15 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 26: April 03, 2021
+
+**Today's Progress**: resource : thenewboston
+
+Java -
+1. inheritance
+
+**Thoughts**: couldn't do much because of my academic exam.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
