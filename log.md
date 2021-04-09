@@ -372,3 +372,17 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 27: April 09, 2021
+
+**Today's Progress**:
+Java -
+1. composition
+2. override
+3. overload
+4. simple linked list
+
+**Thoughts**: I had some personal problem which is why couldn't code for 5 days. Finally got back into programming.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
