@@ -405,4 +405,4 @@ New topic
 **Thoughts**: I have a task of finding 100 objects and find more ojects from the parent object and do the composition and finding out the inheritance. This task is to get familiar with the Object Oriented Concept more comfortably.
 
 **Link(s) to work**
-1. [Link will be updated](https://lucid.app/lucidchart/invitations/accept/inv_76c063b9-2a07-48b4-b39b-3d5665474694)
+1. [Link will be updated](http://www.example.com)
