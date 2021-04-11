@@ -406,3 +406,18 @@ New topic
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 29: April 11, 2021
+
+**Today's Progress**:
+Java -
+1. article on inheritance and composition
+2. article on is-a-relationship and has-a-relationship
+3. a little bit research on singly linked list and example
+task
+1. 100 object find and it's class diagram (done = 5, remain = 85)
+
+**Thoughts**: I am enjoying it.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
