@@ -421,3 +421,14 @@ task
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 30: April 12, 2021
+
+**Today's Progress**:
+Java -
+1. 100 object find and it's class diagram (done = 5, remain = 80)
+
+**Thoughts**: getting more clear about inheritance, composition and aggregation.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
