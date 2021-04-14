@@ -443,3 +443,14 @@ Java -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 32: April 14, 2021
+
+**Today's Progress**:
+Java -
+1. 100 object find and it's class diagram (done = 20, remain = 50)
+
+**Thoughts**: today was so tiring
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
