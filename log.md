@@ -477,3 +477,14 @@ Project complete.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 35: April 21, 2021
+
+**Today's Progress**:
+Java -
+thenewboston java series (video 1-21)(revision) and some problem solving.
+
+**Thoughts**: I had a break. So after the break i am revising the previous topics and did some problem solving.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
