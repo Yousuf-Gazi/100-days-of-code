@@ -488,3 +488,16 @@ thenewboston java series (video 1-21)(revision) and some problem solving.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 36: April 22, 2021
+
+**Today's Progress**:
+
+1. Data hierarchy
+2. Computer organizations
+3. logical units in Computer
+
+**Thoughts**: reading java: how to program by deitel. An amazing book. I am going to read this book on java instead of video tutorial
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
