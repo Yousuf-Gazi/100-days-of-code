@@ -501,3 +501,16 @@ thenewboston java series (video 1-21)(revision) and some problem solving.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 37: April 23, 2021
+
+**Today's Progress**:
+
+1. Machine Languages, Assembly Languages and High-Level Languages
+2. Introduction to Object Technology
+3. Operating Systems
+
+**Thoughts**: learned about some interesting things.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
