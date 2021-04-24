@@ -514,3 +514,18 @@ thenewboston java series (video 1-21)(revision) and some problem solving.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 38: April 24, 2021
+
+**Today's Progress**:
+
+1. Programming Languages
+2. Java and a Typical Java Development Environment
+3. Test-Driving a Java Application
+4. Web 2.0: Going Social
+5. Software Technologies
+
+**Thoughts**: learned about some interesting things.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
