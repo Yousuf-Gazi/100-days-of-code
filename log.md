@@ -529,3 +529,17 @@ thenewboston java series (video 1-21)(revision) and some problem solving.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 39: April 25, 2021
+
+**Today's Progress**:
+
+1. javadoc comment
+2. collection framework
+3. interface
+4. iteration
+
+**Thoughts**: Need research on it a bit.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
