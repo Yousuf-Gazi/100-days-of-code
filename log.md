@@ -543,3 +543,16 @@ thenewboston java series (video 1-21)(revision) and some problem solving.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 40: April 26, 2021
+
+**Today's Progress**:
+
+A little overview on -
+1. LinkedHash set
+2. Tree set
+
+**Thoughts**: New concept loved it.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
