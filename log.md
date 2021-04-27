@@ -556,3 +556,16 @@ A little overview on -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 41: April 27, 2021
+
+**Today's Progress**:
+
+1. Memory Concepts
+2. Arithmetic
+3. Decision Making: Equality and Relational Operators
+
+**Thoughts**: interesting
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
