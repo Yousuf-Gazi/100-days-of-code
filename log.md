@@ -569,3 +569,15 @@ A little overview on -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 42: April 28, 2021
+
+**Today's Progress**:
+
+1. Hash Set
+2. Linked Hash Set
+
+**Thoughts**: interesting
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
