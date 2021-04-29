@@ -581,3 +581,16 @@ A little overview on -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 43: April 29, 2021
+
+**Today's Progress**:
+
+1. Hash Set doc
+2. Linked Hash Set doc
+3. Sorted Set
+
+**Thoughts**: interesting
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
