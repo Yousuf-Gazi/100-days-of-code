@@ -594,3 +594,17 @@ A little overview on -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 44: April 30, 2021
+
+**Today's Progress**:
+
+1. Navigable Set
+2. Tree Set
+3. Array to List
+4. List to Tree Set
+
+**Thoughts**: Tree Set is interesting.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
