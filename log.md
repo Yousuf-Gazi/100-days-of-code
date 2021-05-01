@@ -608,3 +608,14 @@ A little overview on -
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 45: May 01, 2021
+
+**Today's Progress**:
+
+I tried to write an article on Inheritance.
+
+**Thoughts**: writing article is not easy.
+
+**Link(s) to work**
+1. [Inheritance in Java](https://dev.to/mdyousufgazi/inheritance-in-java-1a5k)
