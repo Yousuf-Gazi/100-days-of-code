@@ -619,3 +619,22 @@ I tried to write an article on Inheritance.
 
 **Link(s) to work**
 1. [Inheritance in Java](https://dev.to/mdyousufgazi/inheritance-in-java-1a5k)
+
+### Day 46: June 18, 2021
+
+**Today's Progress**:
+
+Because of some personal problem i was out for a while. after getting back i had to revise previous things which took some time.
+
+**Thoughts**: after getting back to coding again. i thought i forgot a lot of things but surprisingly because my concept was clear i didnt face that much problem to get back to where i was.
+
+Data Structure in Java:
+1. Stack
+2. Queue
+3. Set
+4. Singly linked using javascipt
+
+I was given a challenge to make linked list, stack and queue using linked list which i learned in java to convert into javascript.
+
+**Link(s) to work**
+1. [Singly Linked list](https://github.com/Yousuf-Gazi/JavaScript-hw/tree/master/QueueLinkedList)
