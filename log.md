@@ -639,7 +639,7 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Link(s) to work**
 1. [Singly Linked list](https://github.com/Yousuf-Gazi/JavaScript-hw/tree/master/QueueLinkedList)
 
-### Day 47: Junde 19, 2021
+### Day 47: June 19, 2021
 
 **Today's Progress**:
 
@@ -649,3 +649,14 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Stack implementation using linked list](https://github.com/Yousuf-Gazi/JavaScript-hw/tree/master/StackLinkedList)
+
+### Day 48: June 20, 2021
+
+**Today's Progress**:
+
+1. Queue implementation using linked list
+
+**Thoughts**: first had to learn in java then i converted it into javascript.
+
+**Link(s) to work**
+1. [Queue implementation using linked list](hhttps://github.com/Yousuf-Gazi/JavaScript-hw/tree/master/QueueLinkedList)
