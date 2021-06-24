@@ -660,3 +660,15 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Queue implementation using linked list](hhttps://github.com/Yousuf-Gazi/JavaScript-hw/tree/master/QueueLinkedList)
+
+### Day 49: June 24, 2021
+
+**Today's Progress**:
+
+1. Binary search algorithm
+2. binary search implementation in java
+
+**Thoughts**: going deep into data structure and algorithm
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
