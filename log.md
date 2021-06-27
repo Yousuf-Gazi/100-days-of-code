@@ -666,9 +666,21 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Today's Progress**:
 
 1. Binary search algorithm
-2. binary search implementation in java
+2. binary search implementation in java (iterative way)
 
 **Thoughts**: going deep into data structure and algorithm
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
+
+### Day 50: June 27, 2021
+
+**Today's Progress**:
+
+1. Recursion theory
+2. recursive linear search implementation
+
+**Thoughts**: recursion one of the most important topic.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
