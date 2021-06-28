@@ -684,3 +684,15 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 51: June 28, 2021
+
+**Today's Progress**:
+
+1. fibonacci series using recursion in java
+2. factorial using recursion in java
+
+**Thoughts**: it's tough to think in recursion because till now i have been thinking in loop now have to think in recursion.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
