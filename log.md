@@ -696,3 +696,29 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 52: June 29, 2021
+
+**Today's Progress**:
+
+1. Bubble sort
+2. Bubble sort implementation using recursion in java
+3. Bubble sort implementation iterative way in java
+
+**Thoughts**: recursion is really a little bit diffrent.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
+
+### Day 53: June 30, 2021
+
+**Today's Progress**:
+
+1. Insertion Sort
+2. Insertion sort implementation using recursion in java
+3. Insertion sort implementation iterative way in java
+
+**Thoughts**: I tried to do the implementation without using a single loop but couldn't solve it. there are 2 loops in iterative way. so in recursion i used one recursion and 1 loop.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
