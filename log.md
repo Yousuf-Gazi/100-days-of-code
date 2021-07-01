@@ -722,3 +722,17 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 54: July 01, 2021
+
+**Today's Progress**:
+
+1. Selection sort
+2. Insertion sort implementation iterative way in java
+3. Merge sort
+4. Merge sort implementation using recursion in java
+
+**Thoughts**: merge sort is so much efficient than bubble, insertion and, selection sort
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
