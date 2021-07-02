@@ -671,7 +671,7 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Thoughts**: going deep into data structure and algorithm
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Binary Search Iterative](https://github.com/Yousuf-Gazi/Algorithm_Implementation/tree/master/Algorithm/src/BinarySearchAlgo)
 
 ### Day 50: June 27, 2021
 
@@ -683,7 +683,7 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Thoughts**: recursion one of the most important topic.
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Linear Search Recursive](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Recursion/LinearSearch.java)
 
 ### Day 51: June 28, 2021
 
@@ -695,7 +695,8 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Thoughts**: it's tough to think in recursion because till now i have been thinking in loop now have to think in recursion.
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Fibonacci Series Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Recursion/Fibonacci.java)
+2. [Factorial Recursive Way](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Recursion/Factorial.java)
 
 ### Day 52: June 29, 2021
 
@@ -708,7 +709,8 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Thoughts**: recursion is really a little bit diffrent.
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Bubble Sort Iterative](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/BubbleSortIterative.java)
+2. [Bubble Sort Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/BubbleSortRecursion.java)
 
 ### Day 53: June 30, 2021
 
@@ -721,18 +723,32 @@ I was given a challenge to make linked list, stack and queue using linked list w
 **Thoughts**: I tried to do the implementation without using a single loop but couldn't solve it. there are 2 loops in iterative way. so in recursion i used one recursion and 1 loop.
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Insertion Sort Iterative](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/InsertionSortIterative.java)
+2. [Insertion Sort Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/InsertionSortRecursion.java)
 
 ### Day 54: July 01, 2021
 
 **Today's Progress**:
 
-1. Selection sort
+1. Selection Sort
 2. Insertion sort implementation iterative way in java
-3. Merge sort
+3. Merge Sort
 4. Merge sort implementation using recursion in java
 
 **Thoughts**: merge sort is so much efficient than bubble, insertion and, selection sort
 
 **Link(s) to work**
-1. [Link will be updated](http://www.example.com)
+1. [Selection Sort Iterative](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/SelectionSort.java)
+2. [Merge Sort Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/MergeSortRecursion.java)
+
+### Day 55: July 02, 2021
+
+**Today's Progress**:
+
+1. Quick Sort
+2. Quicksort implementation using recursion in java
+
+**Thoughts**: most efficient algorithm i have learned.
+
+**Link(s) to work**
+1. [Quick Sort Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/QuickSortRecursion.java)
