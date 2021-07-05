@@ -752,3 +752,16 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Quick Sort Recursion](https://github.com/Yousuf-Gazi/Algorithm_Implementation/blob/master/Algorithm/src/Sorting/QuickSortRecursion.java)
+
+### Day 56: July 05, 2021
+
+**Today's Progress**:
+
+1. Recursion tree
+2. How do we know a program is going to be recursion tree
+
+
+**Thoughts**: for fibonacci problem. it's worst.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
