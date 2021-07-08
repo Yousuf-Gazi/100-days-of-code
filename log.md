@@ -765,3 +765,38 @@ I was given a challenge to make linked list, stack and queue using linked list w
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 57: July 07, 2021
+
+**Today's Progress**:
+
+1. Time Complexity
+2. Space Complexity
+3. Bio O Notation
+4. Types of Big O Notation
+
+
+**Thoughts**: We need to understand time complexity pretty well to understand if a certain program is scalable or not.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
+
+### Day 58: July 08, 2021
+
+**Today's Progress**:
+
+Core Java Concept:
+1. Numeric Methods (max, compare, valueOf, parseInt etc)
+2. String Methods
+3. String Comparison and Interning
+4. Single line if statement
+5. Nested while loops
+6. Variable scope with nested control flow
+
+
+**Thoughts**: I have learned something new here which is a little diffrent from C (scanner input, difference between object1 == object2 and primitive1 == primitive2)
+
+**Link(s) of important topics for today's in details
+1. [What is Java String interning?](https://stackoverflow.com/questions/10578984/what-is-java-string-interning)
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
