@@ -792,6 +792,7 @@ Core Java Concept:
 5. Nested while loops
 6. Variable scope with nested control flow
 
+**Source** : [Caleb Curry: YouTube Channel](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
 
 **Thoughts**: I have learned something new here which is a little diffrent from C (scanner input, difference between object1 == object2 and primitive1 == primitive2)
 
