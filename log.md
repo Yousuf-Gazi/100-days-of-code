@@ -801,3 +801,18 @@ Core Java Concept:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 59: July 11, 2021
+
+**Today's Progress**:
+
+Core Java:
+1. Reference types
+2. Formatting number
+3. Escape sequence
+
+
+**Thoughts**: learned something new
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
