@@ -830,3 +830,18 @@ Core Java:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 61: July 13, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. Concept of Divide and Conquer
+2. Key point of Divide and Conquer
+3. When it's applicable
+
+
+**Thoughts**: learned some basic concept on Divide and conquer.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
