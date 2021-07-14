@@ -845,3 +845,18 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 62: July 14, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. Recurrence relation: T(n) = T(n - 1) + 1
+2. The solution of T(n) = T(n - 1) + 1
+
+
+
+**Thoughts**: It's an interesting topic where i get to know how to trace the recursive function and how to write recurrence relation and how to solve recurrence relation.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
