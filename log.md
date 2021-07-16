@@ -860,3 +860,19 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 63: July 15, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. priori analysis and posteriori testing
+2. characteristics of algorithm
+3. how write and analyze algorithm
+4. frequency count method
+
+
+**Thoughts**: going deep into algorithm
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
