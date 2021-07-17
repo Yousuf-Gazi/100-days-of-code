@@ -893,3 +893,19 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 65: July 17, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. asymptotic notation
+2. big-oh, big-omega, theta
+3. properties of asymptotic notation
+
+**Source**: Abdul Bari youtube channel
+
+**Thoughts**: analysing the asymptotic notation.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
