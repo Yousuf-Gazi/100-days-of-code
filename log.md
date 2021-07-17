@@ -876,3 +876,20 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 64: July 16, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. time complexity of nested for loop
+2. time complexity of while and if
+3. classes of function
+4. compare classes of function
+
+**Source**: Abdul Bari youtube channel
+
+**Thoughts**: going deep into algorithm
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
