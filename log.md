@@ -909,3 +909,20 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 66: July 28, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. working with arrays
+2. arrays toString and arrays deepToString
+3. arrays sort and arrays parallelSort
+4. Arrays.fill, Arrays.equals
+
+**Source**: Caleb curry youtube channel
+
+**Thoughts**: I was in break for eid. Now i am finally back. As you may wonder why sometime I do data structure and algorithm and why sometime i do java basic. It's pretty simple I am learning Data-structure and Algorithm and going deep into java at the same time.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
