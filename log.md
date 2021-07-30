@@ -910,7 +910,7 @@ Algorithms:
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
 
-### Day 66: July 28, 2021
+### Day 66: July 29, 2021
 
 **Today's Progress**:
 
@@ -923,6 +923,22 @@ Algorithms:
 **Source**: Caleb curry youtube channel
 
 **Thoughts**: I was in break for eid. Now i am finally back. As you may wonder why sometime I do data structure and algorithm and why sometime i do java basic. It's pretty simple I am learning Data-structure and Algorithm and going deep into java at the same time.
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
+
+### Day 67: July 30, 2021
+
+**Today's Progress**:
+
+Algorithms:
+1. comparison of functions
+2. best case and worst case analysis
+3. average case analysis
+
+**Source**: Abdul Bari youtube channel
+
+**Thoughts**: I still have some confusion related asymptotic notation. I hope i will be clear in the future.
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
