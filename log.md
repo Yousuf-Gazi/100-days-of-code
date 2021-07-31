@@ -942,3 +942,18 @@ Algorithms:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 68: July 31, 2021
+
+**Today's Progress**:
+
+Project:
+1. A little bit about clean coding
+2. Refactoring and structuring
+3. Mortgage Calculator project
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: A lot of new things i get to know like how to code professionally.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
