@@ -957,3 +957,19 @@ Project:
 **Thoughts**: A lot of new things i get to know like how to code professionally.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 69: August 01, 2021
+
+**Today's Progress**:
+
+Java:
+1. Types of errors
+2. Common syntax errors
+3. Debugging java application or program
+4. Packaging java application or program
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: This part was interesting
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
