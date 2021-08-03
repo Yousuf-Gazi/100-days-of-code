@@ -973,3 +973,18 @@ Java:
 **Thoughts**: This part was interesting
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 70: August 02, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. Creating classes and objects
+2. Memory allocation
+3. Encapsulation
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: going deep into object oriented concept.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
