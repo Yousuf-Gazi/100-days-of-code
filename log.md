@@ -988,3 +988,19 @@ Java Object Oriented Concept:
 **Thoughts**: going deep into object oriented concept.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 71: August 03, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. procedural programming
+2. getter setter
+3. abstraction
+4. coupling
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: going deep into object oriented concept.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
