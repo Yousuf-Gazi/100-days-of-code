@@ -1004,3 +1004,20 @@ Java Object Oriented Concept:
 **Thoughts**: going deep into object oriented concept.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 72: August 04, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. reducing coupling
+2. constructor
+3. method overloading
+4. constructor overloading
+5. static members
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: going deep into object oriented concept.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
