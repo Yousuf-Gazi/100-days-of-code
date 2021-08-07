@@ -1021,3 +1021,19 @@ Java Object Oriented Concept:
 **Thoughts**: going deep into object oriented concept.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 73: August 05, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. refactoring MortgageCalculator project and learning new concept of refactoring
+2. what classes do we need
+3. extracting console class
+4. overloading methods
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: doing code in object oriented way.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
