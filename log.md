@@ -1037,3 +1037,17 @@ Java Object Oriented Concept:
 **Thoughts**: doing code in object oriented way.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 74: August 06, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. whole MortgageCalculator has been converted into object oriented way
+2. learned how to use DRY method
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: It's really impressing how you can code without repeating the same code.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
