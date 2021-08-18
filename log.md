@@ -1051,3 +1051,19 @@ Java Object Oriented Concept:
 **Thoughts**: It's really impressing how you can code without repeating the same code.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 75: August 18, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. Inheritance
+2. Constructor and Inheritance
+3. Access modifier
+4. Overriding method
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: Couldnt continue for a while because of some personal reason but now i am back. Inheritance was an interesting topic.
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
