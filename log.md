@@ -1067,3 +1067,19 @@ Java Object Oriented Concept:
 **Thoughts**: Couldnt continue for a while because of some personal reason but now i am back. Inheritance was an interesting topic.
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 76: August 19, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. Upcasting and downcasting
+2. Comparing objects & Polymorphism
+3. Abstract classes and methods
+4. Final classes and methods
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: One of the most interesting topic in oop is polymorphism
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
