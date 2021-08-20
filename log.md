@@ -1083,3 +1083,18 @@ Java Object Oriented Concept:
 **Thoughts**: One of the most interesting topic in oop is polymorphism
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 77: August 20, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. Deep inheritance hierarchies
+2. Multiple inheritance
+3. What is inherface
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Thoughts**: One of the most interesting topic in oop is polymorphism
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
