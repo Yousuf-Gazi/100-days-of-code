@@ -1095,6 +1095,20 @@ Java Object Oriented Concept:
 
 **Source**: Ultimate Java Cours by Mosh Hamedani
 
-**Thoughts**: One of the most interesting topic in oop is polymorphism
+**Thoughts**:
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
+
+### Day 78: August 21, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. Tightly coupled
+2. Dependency injection
+3. Constructor injection
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
