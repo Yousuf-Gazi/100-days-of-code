@@ -1112,3 +1112,17 @@ Java Object Oriented Concept:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 79: August 24, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. setter injection
+2. method injection
+3. interface segragation
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
