@@ -1126,3 +1126,20 @@ Java Object Oriented Concept:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+
+### Day 80: August 26, 2021
+
+**Today's Progress**:
+
+Java Object Oriented Concept:
+1. fields
+2. static methods
+3. private methods
+4. interfaces and abstract class
+5. when to use interfaces
+
+**Source**: Ultimate Java Cours by Mosh Hamedani
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
