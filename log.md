@@ -1143,3 +1143,16 @@ Java Object Oriented Concept:
 
 **Link(s) to work**
 1. [Link will be updated](http://www.example.com)
+
+### Day 81: August 30, 2021
+
+**Today's Progress**:
+
+Java:
+After understanding the basics from video tutorial, i decided to get into books for more deeper understanding.
+1. read the first 5 chapter which was easy because those topics are easy like control flow, classes objects
+
+**Source**: Java How To Program by Paul Deitel and Hervey Deitel
+
+**Link(s) to work**
+1. [Link will be updated](http://www.example.com)
